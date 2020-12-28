@@ -11,6 +11,7 @@ Jinja2==2.11.2
 livereload==2.6.3
 MarkupSafe==1.1.1
 packaging==20.8
+Pillow==8.0.1
 Pygments==2.7.3
 pyparsing==2.4.7
 pytz==2020.5
@@ -20,6 +21,7 @@ snowballstemmer==2.0.0
 soupsieve==2.1
 Sphinx==3.4.1
 sphinx-autobuild==2020.9.1
+sphinx-fontawesome==0.0.6
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==1.0.3
