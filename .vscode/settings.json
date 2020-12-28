@@ -1,0 +1,7 @@
+{
+    "virtualenvPath": "/Users/$USER/.virtualenvs/limberduck.org/bin",
+    "python.pythonPath": "/Users/$USER/.virtualenvs/limberduck.org/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "restructuredtext.confPath": "${workspaceFolder}/docs"
+}
