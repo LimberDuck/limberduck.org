@@ -31,13 +31,13 @@ nessus-file-analyzer
    :alt: LimberDuck nessus-file-analyzer logo
    :width: 80px
    :align: left
-   :target: projects/nessus-file-analyzer
+   :target: nessus-file-analyzer
 
 This is a |GUI| tool that allows you to analyze nessus files containing the 
 results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
 used for |VA| [2]_ process. 
 
-:doc:`read more <projects/nessus-file-analyzer/index>`
+:doc:`read more <nessus-file-analyzer/index>`
 
 ----
 
@@ -48,13 +48,13 @@ nessus-file-reader
    :alt: LimberDuck nessus-file-reader logo
    :width: 80px
    :align: left
-   :target: projects/nessus-file-reader
+   :target: nessus-file-reader
 
 This is a python module that allows you to quickly parse nessus files 
 containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
 used for |VA| [2]_ process.
 
-:doc:`read more <projects/nessus-file-reader/index>`
+:doc:`read more <nessus-file-reader/index>`
 
 ----
 
@@ -65,13 +65,14 @@ converter-csv
    :alt: LimberDuck converter-csv logo
    :width: 80px
    :align: left
-   :target: projects/converter-csv
+   :target: converter-csv
 
 This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
 keeping your operational memory usage at a low level.
 
-:doc:`read more <projects/converter-csv/index>`
+:doc:`read more <converter-csv/index>`
 
+----
 
 .. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck?label=Stars%20from%20users&style=social
     :target: https://github.com/LimberDuck
@@ -84,7 +85,9 @@ keeping your operational memory usage at a low level.
    :glob:
    :hidden:
 
-   projects/*/*
+   nessus-file-analyzer/index
+   nessus-file-reader/index
+   converter-csv/index
 
 .. toctree::
    :caption: Other

@@ -3,7 +3,7 @@ nessus-file-reader
 
 |stars_from_users| |supported_platform| |license|
 
-.. image:: ../../_static/img/LimberDuck-nessus-file-reader-logo.png
+.. image:: ../_static/img/LimberDuck-nessus-file-reader-logo.png
    :alt: LimberDuck nessus-file-reader logo
    :width: 120px
    :align: left
@@ -45,6 +45,8 @@ technology stack
 .. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck/nessus-file-reader?label=Stars%20from%20users&style=social
     :target: https://github.com/LimberDuck/nessus-file-reader
     :alt: Stars from users
+
+----
 
 .. rubric:: Footnotes
 
