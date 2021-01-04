@@ -19,7 +19,7 @@ import sphinx_fontawesome
 # -- Project information -----------------------------------------------------
 
 project = 'LimberDuck'
-copyright = '2018-2020, Damian Krawczyk'
+copyright = '2018-2021, Damian Krawczyk'
 author = 'Damian Krawczyk'
 
 # The full version, including alpha/beta/rc tags
