@@ -25,6 +25,8 @@ times, outputs of particular plugins and a lot more. It's free and Open Source [
     * - source code
       - https://github.com/LimberDuck/nessus-file-reader
 
+    * - changelog
+      - https://github.com/LimberDuck/nessus-file-reader/blob/master/CHANGELOG.md
 
 technology stack
 ----------------

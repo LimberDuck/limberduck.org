@@ -28,6 +28,9 @@ reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3
     * - source code
       - https://github.com/LimberDuck/nessus-file-analyzer
 
+    * - changelog
+      - https://github.com/LimberDuck/nessus-file-analyzer/blob/master/CHANGELOG.md
+
     * - documentation
       - https://nessus-file-analyzer.readthedocs.io
 
