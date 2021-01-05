@@ -74,6 +74,7 @@ html_favicon = "_static/img/favicon.ico"
 html_css_files = [
     # "http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "css/font-awesome.css",
+    "css/custom.css",
 ]
 
 rst_prolog =  sphinx_fontawesome.prolog + """
