@@ -3,7 +3,7 @@
 /* This line is theme specific - it includes the base theme CSS */
 /* @import '../alabaster.css';  for Alabaster */
 /*@import 'theme.css';       /* for the Read the Docs theme */
-@import '../basic.css';
+@import 'basic.css';
 
 a.fa-icon:link {
     text-decoration:none;
