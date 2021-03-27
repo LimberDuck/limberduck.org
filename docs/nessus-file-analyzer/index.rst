@@ -1,7 +1,7 @@
 nessus-file-analyzer
 ====================
 
-|stars_from_users| |supported_platform| |license|
+|latest_release| |stars_from_users| |supported_platform| |license|
 
 .. image:: ../_static/img/LimberDuck-nessus-file-analyzer-logo.png
    :alt: LimberDuck nessus-file-analyzer logo
@@ -27,6 +27,9 @@ reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3
 
     * - source code
       - https://github.com/LimberDuck/nessus-file-analyzer
+
+    * - release notes
+      - https://github.com/LimberDuck/nessus-file-analyzer/releases
 
     * - changelog
       - https://github.com/LimberDuck/nessus-file-analyzer/blob/master/CHANGELOG.md
@@ -78,3 +81,7 @@ technology stack
 .. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck/nessus-file-analyzer?label=Stars%20from%20users&style=social
     :target: https://github.com/LimberDuck/nessus-file-analyzer
     :alt: Stars from users
+
+.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-analyzer?label=Latest%20release&style=social
+    :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
+    :alt: Latest release

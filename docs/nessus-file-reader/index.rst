@@ -1,7 +1,7 @@
 nessus-file-reader
 ==================
 
-|stars_from_users| |supported_platform| |license|
+|latest_release| |stars_from_users| |supported_platform| |license|
 
 .. image:: ../_static/img/LimberDuck-nessus-file-reader-logo.png
    :alt: LimberDuck nessus-file-reader logo
@@ -24,7 +24,10 @@ times, outputs of particular plugins and a lot more. It's free and Open Source [
 
     * - source code
       - https://github.com/LimberDuck/nessus-file-reader
-
+  
+    * - release notes
+      - https://github.com/LimberDuck/nessus-file-reader/releases
+  
     * - changelog
       - https://github.com/LimberDuck/nessus-file-reader/blob/master/CHANGELOG.md
 
@@ -47,6 +50,10 @@ technology stack
 .. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck/nessus-file-reader?label=Stars%20from%20users&style=social
     :target: https://github.com/LimberDuck/nessus-file-reader
     :alt: Stars from users
+
+.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-reader?label=Latest%20release&style=social
+    :target: https://github.com/LimberDuck/nessus-file-reader/releases
+    :alt: Latest release
 
 ----
 

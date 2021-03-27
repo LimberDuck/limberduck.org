@@ -1,7 +1,7 @@
 converter-csv
 =============
 
-|stars_from_users| |supported_platform| |license|
+|latest_release| |stars_from_users| |supported_platform| |license|
 
 .. image:: ../_static/img/LimberDuck-converter-csv-logo.png
    :alt: LimberDuck converter-csv logo
@@ -20,6 +20,9 @@ Source [#]_ tool.
 
     * - source code
       - https://github.com/LimberDuck/converter-csv
+
+    * - release notes
+      - https://github.com/LimberDuck/converter-csv/releases
 
     * - changelog
       - https://github.com/LimberDuck/converter-csv/blob/master/CHANGELOG.rst
@@ -57,6 +60,10 @@ technology stack
 .. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck/converter-csv?label=Stars%20from%20users&style=social
     :target: https://github.com/LimberDuck/converter-csv
     :alt: Stars from users
+
+.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/converter-csv?label=Latest%20release&style=social
+    :target: https://github.com/LimberDuck/converter-csv/releases
+    :alt: Latest release
 
 ----
 
