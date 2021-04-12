@@ -118,6 +118,8 @@ nessus file analyzer:
    | First of all... Great tool! You did a really great job! Thanks for developing such a wonderful tool!
    | ~ User
 
+----
+
 .. rubric:: Footnotes
 
 .. [1] read more about :term:`Open Source` in glossary
