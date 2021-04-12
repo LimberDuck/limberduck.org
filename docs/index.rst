@@ -74,31 +74,6 @@ keeping your operational memory usage at a low level.
 
 ----
 
-.. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck?label=Stars%20from%20users&style=social
-    :target: https://github.com/LimberDuck
-    :alt: Stars from users 
-
-
-.. toctree::
-   :caption: Projects
-   :maxdepth: 1
-   :glob:
-   :hidden:
-
-   nessus-file-analyzer/index
-   nessus-file-reader/index
-   converter-csv/index
-
-.. toctree::
-   :caption: Other
-   :maxdepth: 1
-   :glob:
-   :hidden:
-
-   glossary/index
-   contact/index
-   GitHub <https://github.com/limberduck>
-
 .. rubric:: testimonials
 
 nessus file analyzer:
@@ -124,3 +99,28 @@ nessus file analyzer:
 
 .. [1] read more about :term:`Open Source` in glossary
 .. [2] read more about :term:`Vulnerability Assessment` in glossary
+
+.. |stars_from_users| image:: https://img.shields.io/github/stars/LimberDuck?label=Stars%20from%20users&style=social
+    :target: https://github.com/LimberDuck
+    :alt: Stars from users 
+
+
+.. toctree::
+   :caption: Projects
+   :maxdepth: 1
+   :glob:
+   :hidden:
+
+   nessus-file-analyzer/index
+   nessus-file-reader/index
+   converter-csv/index
+
+.. toctree::
+   :caption: Other
+   :maxdepth: 1
+   :glob:
+   :hidden:
+
+   glossary/index
+   contact/index
+   GitHub <https://github.com/limberduck>
