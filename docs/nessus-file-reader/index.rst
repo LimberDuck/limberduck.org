@@ -1,4 +1,4 @@
-nessus-file-reader
+nessus file reader
 ==================
 
 |latest_release| |stars_from_users| |supported_platform| |license|

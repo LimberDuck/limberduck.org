@@ -12,7 +12,7 @@ about
 
 .. image:: _static/img/LimberDuck-logo.png
    :alt: LimberDuck logo
-   :width: 100px
+   :width: 90px
    :align: left
    :target: .
 
@@ -21,11 +21,11 @@ goal of this project is to create an array of free and Open Source [1]_ tools de
 for Security Engineers who wants to automate their work, decrease their workload and 
 focus on data analysis.
 
-Projects
---------
 
-nessus-file-analyzer
-++++++++++++++++++++
+.. rubric:: projects
+
+.. rubric:: nessus file analyzer
+
 
 .. image:: _static/img/LimberDuck-nessus-file-analyzer-logo.png
    :alt: LimberDuck nessus-file-analyzer logo
@@ -41,8 +41,8 @@ used for |VA| [2]_ process.
 
 ----
 
-nessus-file-reader
-++++++++++++++++++
+.. rubric:: nessus file reader
+
 
 .. image:: _static/img/LimberDuck-nessus-file-reader-logo.png
    :alt: LimberDuck nessus-file-reader logo
@@ -58,8 +58,8 @@ used for |VA| [2]_ process.
 
 ----
 
-converter-csv
-++++++++++++++++++++
+.. rubric:: converter csv
+
 
 .. image:: _static/img/LimberDuck-converter-csv-logo.png
    :alt: LimberDuck converter-csv logo
@@ -98,6 +98,25 @@ keeping your operational memory usage at a low level.
    glossary/index
    contact/index
    GitHub <https://github.com/limberduck>
+
+.. rubric:: testimonials
+
+nessus-file-analyzer:
+
+   | Tested everyday. Works perfect.
+   | ~ User
+   |
+   | Brilliant work!
+   | ~ User
+   |
+   | This tool is really helpful! Thanks for sharing this.
+   | ~ User
+   |
+   | I found nessus file analyzer to be an excellent tool.
+   | ~ User
+   |
+   | First of all... Great tool! You did a really great job! Thanks for developing such a wonderful tool!
+   | ~ User
 
 .. rubric:: Footnotes
 

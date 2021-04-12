@@ -1,4 +1,4 @@
-converter-csv
+converter csv
 =============
 
 |latest_release| |stars_from_users| |supported_platform| |license|

@@ -1,4 +1,4 @@
-nessus-file-analyzer
+nessus file analyzer
 ====================
 
 |latest_release| |stars_from_users| |supported_platform| |license|
