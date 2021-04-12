@@ -101,7 +101,7 @@ keeping your operational memory usage at a low level.
 
 .. rubric:: testimonials
 
-nessus-file-analyzer:
+nessus file analyzer:
 
    | Tested everyday. Works perfect.
    | ~ User
