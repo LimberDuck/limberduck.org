@@ -1,7 +1,10 @@
 nessus file reader
 ==================
 
-|latest_release| |stars_from_users| |supported_platform| |license|
+|latest_release| |latest_release_date| |pypi_downloads| 
+
+
+|stars_from_users| |supported_platform| |license|
 
 .. image:: ../_static/img/LimberDuck-nessus-file-reader-logo.png
    :alt: LimberDuck nessus-file-reader logo
@@ -81,9 +84,17 @@ technology stack
     :target: https://github.com/LimberDuck/nessus-file-reader
     :alt: Stars from users
 
-.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-reader?label=Latest%20release&style=social
+.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-reader?label=Latest%20release%20version&style=social
     :target: https://github.com/LimberDuck/nessus-file-reader/releases
-    :alt: Latest release
+    :alt: Latest Release version
+
+.. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/nessus-file-reader?label=Latest%20release%20date&logo=GitHub&style=social
+    :target: https://github.com/LimberDuck/nessus-file-reader/releases
+    :alt: GitHub Release Date
+
+.. |pypi_downloads| image:: https://img.shields.io/pypi/dm/nessus-file-reader?logo=PyPI&style=social   
+    :target: https://pypi.org/project/nessus-file-reader/
+    :alt: PyPI - Downloads
 
 ----
 

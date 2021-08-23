@@ -1,7 +1,9 @@
 nessus file analyzer
 ====================
 
-|latest_release| |stars_from_users| |supported_platform| |license|
+|latest_release| |latest_release_date| 
+
+|stars_from_users| |supported_platform| |license|
 
 .. image:: ../_static/img/LimberDuck-nessus-file-analyzer-logo.png
    :alt: LimberDuck nessus-file-analyzer logo
@@ -119,6 +121,10 @@ technology stack
     :target: https://github.com/LimberDuck/nessus-file-analyzer
     :alt: Stars from users
 
-.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-analyzer?label=Latest%20release&style=social
+.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-analyzer?label=Latest%20release%20version&style=social
     :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
-    :alt: Latest release
+    :alt: Latest Release version
+
+.. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/nessus-file-analyzer?label=Latest%20release%20date&logo=GitHub&style=social
+    :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
+    :alt: GitHub Release Date
