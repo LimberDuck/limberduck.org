@@ -21,21 +21,58 @@ will receive spreadsheets with a summary view of the whole scan and/or all repor
 hosts. You will also be able to generate spreadsheets with a detailed view of all 
 reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3]_ tool.
 
-.. list-table:: nessus-file-analyzer details
-    :widths: 25 75
-    :stub-columns: 1
+.. grid:: 2 3 4 4
 
-    * - source code
-      - https://github.com/LimberDuck/nessus-file-analyzer
+    .. grid-item::
 
-    * - release notes
-      - https://github.com/LimberDuck/nessus-file-analyzer/releases
+      .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer
+         :color: primary
+         :outline:
 
-    * - changelog
-      - https://github.com/LimberDuck/nessus-file-analyzer/blob/master/CHANGELOG.md
+         :octicon:`code;1em;sd-color-primary-text` source code
 
-    * - documentation
-      - https://nessus-file-analyzer.readthedocs.io
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer/releases
+         :color: primary
+         :outline:
+
+         :octicon:`note;1em;sd-color-primary-text` release notes
+
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer/blob/master/CHANGELOG.md
+         :color: primary
+         :outline:
+
+         :octicon:`list-ordered;1em;sd-color-primary-text` changelog
+
+    .. grid-item::
+
+      .. button-link:: https://nessus-file-analyzer.readthedocs.io
+         :color: primary
+         :outline:
+
+         :octicon:`repo;1em;sd-color-primary-text` docs
+
+
+
+
+.. .. list-table:: nessus-file-analyzer details
+..     :widths: 25 75
+..     :stub-columns: 1
+
+..     * - source code
+..       - https://github.com/LimberDuck/nessus-file-analyzer
+
+..     * - release notes
+..       - https://github.com/LimberDuck/nessus-file-analyzer/releases
+
+..     * - changelog
+..       - https://github.com/LimberDuck/nessus-file-analyzer/blob/master/CHANGELOG.md
+
+..     * - documentation
+..       - https://nessus-file-analyzer.readthedocs.io
 
 
 

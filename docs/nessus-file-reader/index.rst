@@ -18,18 +18,48 @@ report hosts names, the number of target hosts, the number of hosts scanned with
 credentialed checks, the number of reported plugins per Risk Factor, exact host scan 
 times, outputs of particular plugins and a lot more. It's free and Open Source [2]_ tool.
 
-.. list-table:: nessus-file-reader details
-    :widths: 25 75
-    :stub-columns: 1
+.. grid:: 2 3 4 4
 
-    * - source code
-      - https://github.com/LimberDuck/nessus-file-reader
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-reader
+         :color: primary
+         :outline:
+
+         :octicon:`code;1em;sd-color-primary-text` source code
+
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-reader/releases
+         :color: primary
+         :outline:
+
+         :octicon:`note;1em;sd-color-primary-text` release notes
+
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-reader/blob/master/CHANGELOG.md
+         :color: primary
+         :outline:
+
+         :octicon:`list-ordered;1em;sd-color-primary-text` changelog
+
+    .. grid-item::
+
+
+
+.. .. list-table:: nessus-file-reader details
+..     :widths: 25 75
+..     :stub-columns: 1
+
+..     * - source code
+..       - https://github.com/LimberDuck/nessus-file-reader
   
-    * - release notes
-      - https://github.com/LimberDuck/nessus-file-reader/releases
+..     * - release notes
+..       - https://github.com/LimberDuck/nessus-file-reader/releases
   
-    * - changelog
-      - https://github.com/LimberDuck/nessus-file-reader/blob/master/CHANGELOG.md
+..     * - changelog
+..       - https://github.com/LimberDuck/nessus-file-reader/blob/master/CHANGELOG.md
 
 technology stack
 ----------------

@@ -22,55 +22,126 @@ for Security Engineers who wants to automate their work, decrease their workload
 focus on data analysis.
 
 
-.. rubric:: projects
+.. .. rubric:: projects
 
-.. rubric:: nessus file analyzer
+.. grid:: 1 2 2 2
+    :gutter: 3
+    
+    .. grid-item-card::
+      :class-footer: sd-text-center 
+
+      **nessus file analyzer**   
+      ^^^
+      .. image:: _static/img/LimberDuck-nessus-file-analyzer-logo.png
+         :alt: LimberDuck nessus-file-analyzer logo
+         :width: 80px
+         :align: left
+         :target: nessus-file-analyzer
+
+      This is a |GUI| tool that allows you to analyze nessus files containing the 
+      results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
+      used for |VA| [2]_ process.
+
+      +++
+      .. button-ref:: nessus-file-analyzer/index
+         :color: primary
+         :ref-type: doc
+         :outline:
+
+         read more
+    
+    .. grid-item-card::
+         :class-footer: sd-text-center 
+
+         **nessus file reader**   
+         ^^^
+         .. image:: _static/img/LimberDuck-nessus-file-reader-logo.png
+            :alt: LimberDuck nessus-file-reader logo
+            :width: 80px
+            :align: left
+            :target: nessus-file-reader
+
+         This is a python module that allows you to quickly parse nessus files 
+         containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
+         used for |VA| [2]_ process.
+
+         +++
+         .. button-ref:: nessus-file-reader/index
+            :color: primary
+            :ref-type: doc
+            :outline:
+
+            read more
+    
+    .. grid-item-card::
+         :class-footer: sd-text-center 
+
+         **converter csv**   
+         ^^^
+         .. image:: _static/img/LimberDuck-converter-csv-logo.png
+            :alt: LimberDuck converter-csv logo
+            :width: 80px
+            :align: left
+            :target: converter-csv
+
+         This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
+         keeping your operational memory usage at a low level.
+
+         +++
+         .. button-ref:: converter-csv/index
+            :color: primary
+            :ref-type: doc
+            :outline:
+
+            read more
+
+.. .. rubric:: nessus file analyzer
 
 
-.. image:: _static/img/LimberDuck-nessus-file-analyzer-logo.png
-   :alt: LimberDuck nessus-file-analyzer logo
-   :width: 80px
-   :align: left
-   :target: nessus-file-analyzer
+.. .. image:: _static/img/LimberDuck-nessus-file-analyzer-logo.png
+..    :alt: LimberDuck nessus-file-analyzer logo
+..    :width: 80px
+..    :align: left
+..    :target: nessus-file-analyzer
 
-This is a |GUI| tool that allows you to analyze nessus files containing the 
-results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
-used for |VA| [2]_ process. 
+.. This is a |GUI| tool that allows you to analyze nessus files containing the 
+.. results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
+.. used for |VA| [2]_ process. 
 
-:doc:`read more <nessus-file-analyzer/index>`
+.. :doc:`read more <nessus-file-analyzer/index>`
 
-----
+.. ----
 
-.. rubric:: nessus file reader
-
-
-.. image:: _static/img/LimberDuck-nessus-file-reader-logo.png
-   :alt: LimberDuck nessus-file-reader logo
-   :width: 80px
-   :align: left
-   :target: nessus-file-reader
-
-This is a python module that allows you to quickly parse nessus files 
-containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
-used for |VA| [2]_ process.
-
-:doc:`read more <nessus-file-reader/index>`
-
-----
-
-.. rubric:: converter csv
+.. .. rubric:: nessus file reader
 
 
-.. image:: _static/img/LimberDuck-converter-csv-logo.png
-   :alt: LimberDuck converter-csv logo
-   :width: 80px
-   :align: left
-   :target: converter-csv
+.. .. image:: _static/img/LimberDuck-nessus-file-reader-logo.png
+..    :alt: LimberDuck nessus-file-reader logo
+..    :width: 80px
+..    :align: left
+..    :target: nessus-file-reader
 
-This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
-keeping your operational memory usage at a low level.
+.. This is a python module that allows you to quickly parse nessus files 
+.. containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
+.. used for |VA| [2]_ process.
 
-:doc:`read more <converter-csv/index>`
+.. :doc:`read more <nessus-file-reader/index>`
+
+.. ----
+
+.. .. rubric:: converter csv
+
+
+.. .. image:: _static/img/LimberDuck-converter-csv-logo.png
+..    :alt: LimberDuck converter-csv logo
+..    :width: 80px
+..    :align: left
+..    :target: converter-csv
+
+.. This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
+.. keeping your operational memory usage at a low level.
+
+.. :doc:`read more <converter-csv/index>`
 
 ----
 

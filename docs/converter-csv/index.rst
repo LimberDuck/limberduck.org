@@ -14,18 +14,46 @@ keeping your operational memory usage at a low level. You can run it on your
 operating system no matter if it is Windows, MacOS or GNU Linux. It's free and Open 
 Source [#]_ tool.
 
-.. list-table:: converter-csv details
-    :widths: 25 75
-    :stub-columns: 1
+.. grid:: 2 3 4 4
 
-    * - source code
-      - https://github.com/LimberDuck/converter-csv
+    .. grid-item::
 
-    * - release notes
-      - https://github.com/LimberDuck/converter-csv/releases
+      .. button-link:: https://github.com/LimberDuck/converter-csv
+         :color: primary
+         :outline:
 
-    * - changelog
-      - https://github.com/LimberDuck/converter-csv/blob/master/CHANGELOG.rst
+         :octicon:`code;1em;sd-color-primary-text` source code
+
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/converter-csv/releases
+         :color: primary
+         :outline:
+
+         :octicon:`note;1em;sd-color-primary-text` release notes
+
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/converter-csv/blob/master/CHANGELOG.md
+         :color: primary
+         :outline:
+
+         :octicon:`list-ordered;1em;sd-color-primary-text` changelog
+
+    .. grid-item::
+
+.. .. list-table:: converter-csv details
+..     :widths: 25 75
+..     :stub-columns: 1
+
+..     * - source code
+..       - https://github.com/LimberDuck/converter-csv
+
+..     * - release notes
+..       - https://github.com/LimberDuck/converter-csv/releases
+
+..     * - changelog
+..       - https://github.com/LimberDuck/converter-csv/blob/master/CHANGELOG.rst
 
 .. image:: https://user-images.githubusercontent.com/9287709/57588063-d4b2f280-750e-11e9-9ba8-e2d301d38cbc.png
    :width: 600
