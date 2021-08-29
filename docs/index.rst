@@ -25,10 +25,11 @@ focus on data analysis.
 .. .. rubric:: projects
 
 .. grid:: 1 2 2 2
-    :gutter: 3
+   :gutter: 3
     
-    .. grid-item-card::
-      :class-footer: sd-text-center 
+   .. grid-item-card::
+      :class-footer: sd-text-center
+      :shadow: md
 
       **nessus file analyzer**   
       ^^^
@@ -50,50 +51,52 @@ focus on data analysis.
 
          read more
     
-    .. grid-item-card::
-         :class-footer: sd-text-center 
+   .. grid-item-card::
+      :class-footer: sd-text-center
+      :shadow: md
 
-         **nessus file reader**   
-         ^^^
-         .. image:: _static/img/LimberDuck-nessus-file-reader-logo.png
-            :alt: LimberDuck nessus-file-reader logo
-            :width: 80px
-            :align: left
-            :target: nessus-file-reader
+      **nessus file reader**   
+      ^^^
+      .. image:: _static/img/LimberDuck-nessus-file-reader-logo.png
+         :alt: LimberDuck nessus-file-reader logo
+         :width: 80px
+         :align: left
+         :target: nessus-file-reader
 
-         This is a python module that allows you to quickly parse nessus files 
-         containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
-         used for |VA| [2]_ process.
+      This is a python module that allows you to quickly parse nessus files 
+      containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
+      used for |VA| [2]_ process.
 
-         +++
-         .. button-ref:: nessus-file-reader/index
-            :color: primary
-            :ref-type: doc
-            :outline:
-
-            read more
+      +++
+      .. button-ref:: nessus-file-reader/index
+         :color: primary
+         :ref-type: doc
+         :outline:
+         
+         read more
     
-    .. grid-item-card::
-         :class-footer: sd-text-center 
+   .. grid-item-card::
+      :class-footer: sd-text-center
+      :shadow: md
 
-         **converter csv**   
-         ^^^
-         .. image:: _static/img/LimberDuck-converter-csv-logo.png
-            :alt: LimberDuck converter-csv logo
-            :width: 80px
-            :align: left
-            :target: converter-csv
-
-         This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
-         keeping your operational memory usage at a low level.
-
-         +++
-         .. button-ref:: converter-csv/index
-            :color: primary
-            :ref-type: doc
-            :outline:
-
-            read more
+      **converter csv**   
+      ^^^
+      .. image:: _static/img/LimberDuck-converter-csv-logo.png
+         :alt: LimberDuck converter-csv logo
+         :width: 80px
+         :align: left
+         :target: converter-csv
+      
+      This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
+      keeping your operational memory usage at a low level.
+      
+      +++
+      .. button-ref:: converter-csv/index
+         :color: primary
+         :ref-type: doc
+         :outline:
+         
+         read more
 
 .. .. rubric:: nessus file analyzer
 
