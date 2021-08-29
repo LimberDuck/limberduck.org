@@ -28,6 +28,7 @@ times, outputs of particular plugins and a lot more. It's free and Open Source [
       .. button-link:: https://github.com/LimberDuck/nessus-file-reader
          :color: primary
          :outline:
+         :tooltip: Check source code here
 
          :octicon:`code;1em;sd-color-primary-text` source code
 
@@ -36,18 +37,27 @@ times, outputs of particular plugins and a lot more. It's free and Open Source [
       .. button-link:: https://github.com/LimberDuck/nessus-file-reader/releases
          :color: primary
          :outline:
+         :tooltip: Check release notes here
 
          :octicon:`note;1em;sd-color-primary-text` release notes
 
     .. grid-item::
 
-      .. button-link:: https://github.com/LimberDuck/nessus-file-reader/blob/master/CHANGELOG.md
+      .. button-link:: https://github.com/LimberDuck/nessus-file-reader/discussions
          :color: primary
          :outline:
+         :tooltip: Discuss here
 
-         :octicon:`list-ordered;1em;sd-color-primary-text` changelog
+         :octicon:`comment-discussion;1em;sd-color-primary-text` discussions
 
     .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-reader/issues
+         :color: primary
+         :outline:
+         :tooltip: Report issues here
+
+         :octicon:`issue-opened;1em;sd-color-primary-text` issues
 
 
 

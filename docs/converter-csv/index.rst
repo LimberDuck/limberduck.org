@@ -23,6 +23,7 @@ Source [#]_ tool.
       .. button-link:: https://github.com/LimberDuck/converter-csv
          :color: primary
          :outline:
+         :tooltip: Check source code here
 
          :octicon:`code;1em;sd-color-primary-text` source code
 
@@ -31,18 +32,27 @@ Source [#]_ tool.
       .. button-link:: https://github.com/LimberDuck/converter-csv/releases
          :color: primary
          :outline:
+         :tooltip: Check release notes here
 
          :octicon:`note;1em;sd-color-primary-text` release notes
 
     .. grid-item::
 
-      .. button-link:: https://github.com/LimberDuck/converter-csv/blob/master/CHANGELOG.md
+      .. button-link:: https://github.com/LimberDuck/converter-csv/discussions
          :color: primary
          :outline:
+         :tooltip: Discuss here
 
-         :octicon:`list-ordered;1em;sd-color-primary-text` changelog
+         :octicon:`comment-discussion;1em;sd-color-primary-text` discussions
 
     .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/converter-csv/issues
+         :color: primary
+         :outline:
+         :tooltip: Report issues here
+
+         :octicon:`issue-opened;1em;sd-color-primary-text` issues
 
 .. .. list-table:: converter-csv details
 ..     :widths: 25 75

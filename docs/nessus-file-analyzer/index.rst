@@ -30,6 +30,7 @@ reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3
       .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer
          :color: primary
          :outline:
+         :tooltip: Check source code here
 
          :octicon:`code;1em;sd-color-primary-text` source code
 
@@ -38,26 +39,36 @@ reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3
       .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer/releases
          :color: primary
          :outline:
+         :tooltip: Check release notes here
 
          :octicon:`note;1em;sd-color-primary-text` release notes
 
     .. grid-item::
 
-      .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer/blob/master/CHANGELOG.md
+      .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer/discussions
          :color: primary
          :outline:
+         :tooltip: Discuss here
 
-         :octicon:`list-ordered;1em;sd-color-primary-text` changelog
+         :octicon:`comment-discussion;1em;sd-color-primary-text` discussions
+
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-analyzer/issues
+         :color: primary
+         :outline:
+         :tooltip: Report issues here
+
+         :octicon:`issue-opened;1em;sd-color-primary-text` issues
 
     .. grid-item::
 
       .. button-link:: https://nessus-file-analyzer.readthedocs.io
          :color: primary
          :outline:
+         :tooltip: Read documentation here
 
          :octicon:`repo;1em;sd-color-primary-text` docs
-
-
 
 
 .. .. list-table:: nessus-file-analyzer details
