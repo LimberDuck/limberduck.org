@@ -152,6 +152,9 @@ focus on data analysis.
 
 nessus file analyzer:
 
+   | I love the Nessus File Analyzer, so thank you so much for sharing and maintaining.
+   | ~ User
+   |
    | Tested everyday. Works perfect.
    | ~ User
    |
