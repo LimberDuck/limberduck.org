@@ -121,10 +121,10 @@ technology stack
     :target: https://github.com/LimberDuck/nessus-file-analyzer
     :alt: Stars from users
 
-.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-analyzer?label=Latest%20release%20version&style=social
+.. |latest_release| image:: https://img.shields.io/github/v/release/LimberDuck/nessus-file-analyzer?label=Latest%20release&style=social
     :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
     :alt: Latest Release version
 
-.. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/nessus-file-analyzer?label=Latest%20release%20date&logo=GitHub&style=social
+.. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/nessus-file-analyzer?label=released&logo=GitHub&style=social
     :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
     :alt: GitHub Release Date
