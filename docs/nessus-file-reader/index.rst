@@ -103,7 +103,7 @@ technology stack
     :alt: GitHub Release Date
 
 .. |pypi_downloads| image:: https://img.shields.io/pypi/dm/nessus-file-reader?logo=PyPI&style=social   
-    :target: https://pypi.org/project/nessus-file-reader/
+    :target: https://pypistats.org/packages/nessus-file-reader
     :alt: PyPI - Downloads
 
 ----

@@ -1,7 +1,7 @@
 converter csv
 =============
 
-|latest_release| |latest_release_date| 
+|latest_release| |latest_release_date| |pypi_downloads| 
 
 |stars_from_users| |supported_platform| |license|
 
@@ -108,6 +108,10 @@ technology stack
 .. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/converter-csv?label=released&logo=GitHub&style=social
     :target: https://github.com/LimberDuck/converter-csv/releases
     :alt: GitHub Release Date
+
+.. |pypi_downloads| image:: https://img.shields.io/pypi/dm/converter-csv?logo=PyPI&style=social   
+    :target: https://pypistats.org/packages/converter-csv/
+    :alt: PyPI - Downloads
 
 ----
 
