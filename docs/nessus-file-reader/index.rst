@@ -59,6 +59,14 @@ times, outputs of particular plugins and a lot more. It's free and Open Source [
 
          :octicon:`issue-opened;1em;sd-color-primary-text` issues
 
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/nessus-file-reader#readme
+         :color: primary
+         :outline:
+         :tooltip: Read documentation here
+
+         :octicon:`repo;1em;sd-color-primary-text` docs
 
 
 .. .. list-table:: nessus-file-reader details
@@ -81,6 +89,19 @@ technology stack
    :alt: Python logo
    :target: https://python.org
    :width: 220px
+
+
+stargazers over time
+--------------------
+
+|stargazers_over_time|
+
+----
+
+.. rubric:: Footnotes
+
+.. [1] read more about :term:`Vulnerability Assessment` in glossary
+.. [2] read more about :term:`Open Source` in glossary
 
 .. |license| image:: https://img.shields.io/github/license/LimberDuck/nessus-file-reader.svg?style=social
     :target: https://github.com/LimberDuck/nessus-file-reader/blob/master/LICENSE
@@ -106,9 +127,6 @@ technology stack
     :target: https://pypistats.org/packages/nessus-file-reader
     :alt: PyPI - Downloads
 
-----
-
-.. rubric:: Footnotes
-
-.. [1] read more about :term:`Vulnerability Assessment` in glossary
-.. [2] read more about :term:`Open Source` in glossary
+.. |stargazers_over_time| image:: https://starchart.cc/LimberDuck/nessus-file-reader.svg
+    :target: https://starchart.cc/LimberDuck/nessus-file-reader
+    :alt: Stargazers over time
