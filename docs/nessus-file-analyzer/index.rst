@@ -112,6 +112,34 @@ technology stack
    :target: https://riverbankcomputing.com/software/pyqt
    :width: 60px
 
+testimonials
+------------
+
+   | I love the Nessus File Analyzer, so thank you so much for sharing and maintaining.
+   | ~ User
+   |
+   | Tested everyday. Works perfect.
+   | ~ User
+   |
+   | Brilliant work!
+   | ~ User
+   |
+   | This tool is really helpful! Thanks for sharing this.
+   | ~ User
+   |
+   | I found nessus file analyzer to be an excellent tool.
+   | ~ User
+   |
+   | First of all... Great tool! You did a really great job! Thanks for developing such a wonderful tool!
+   | ~ User
+
+
+stargazers over time
+--------------------
+
+|stargazers_over_time|
+
+
 ----
 
 .. rubric:: Footnotes
@@ -139,3 +167,7 @@ technology stack
 .. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/nessus-file-analyzer?label=released&logo=GitHub&style=social
     :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
     :alt: GitHub Release Date
+
+.. |stargazers_over_time| image:: https://starchart.cc/LimberDuck/nessus-file-analyzer.svg
+    :target: https://starchart.cc/LimberDuck/nessus-file-analyzer
+    :alt: Stargazers over time
