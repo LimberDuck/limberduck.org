@@ -110,7 +110,7 @@ technology stack
     :alt: GitHub Release Date
 
 .. |pypi_downloads| image:: https://img.shields.io/pypi/dm/converter-csv?logo=PyPI&style=social   
-    :target: https://pypistats.org/packages/converter-csv/
+    :target: https://pypistats.org/packages/converter-csv
     :alt: PyPI - Downloads
 
 ----
