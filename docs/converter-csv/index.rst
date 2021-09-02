@@ -54,6 +54,15 @@ Source [#]_ tool.
 
          :octicon:`issue-opened;1em;sd-color-primary-text` issues
 
+    .. grid-item::
+
+      .. button-link:: https://github.com/LimberDuck/converter-csv#readme
+         :color: primary
+         :outline:
+         :tooltip: Read documentation here
+
+         :octicon:`repo;1em;sd-color-primary-text` docs
+
 .. .. list-table:: converter-csv details
 ..     :widths: 25 75
 ..     :stub-columns: 1
@@ -87,7 +96,6 @@ technology stack
    :alt: PyQt logo
    :target: https://riverbankcomputing.com/software/pyqt
    :width: 60px
-
 
 .. |license| image:: https://img.shields.io/github/license/LimberDuck/converter-csv.svg?style=social
     :target: https://github.com/LimberDuck/converter-csv/blob/master/LICENSE
