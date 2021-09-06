@@ -1,7 +1,7 @@
 nessus file analyzer
 ====================
 
-|latest_release| |latest_release_date| 
+|latest_release| |latest_release_date| |pypi_downloads|
 
 |stars_from_users| |supported_platform| |license|
 
@@ -167,6 +167,10 @@ stargazers over time
 .. |latest_release_date| image:: https://img.shields.io/github/release-date/limberduck/nessus-file-analyzer?label=released&logo=GitHub&style=social
     :target: https://github.com/LimberDuck/nessus-file-analyzer/releases
     :alt: GitHub Release Date
+
+.. |pypi_downloads| image:: https://img.shields.io/pypi/dm/nessus-file-analyzer?logo=PyPI&style=social   
+    :target: https://pypistats.org/packages/nessus-file-analyzer
+    :alt: PyPI - Downloads
 
 .. |stargazers_over_time| image:: https://starchart.cc/LimberDuck/nessus-file-analyzer.svg
     :target: https://starchart.cc/LimberDuck/nessus-file-analyzer
