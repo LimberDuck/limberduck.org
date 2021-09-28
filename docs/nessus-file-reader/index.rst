@@ -68,6 +68,11 @@ times, outputs of particular plugins and a lot more. It's free and Open Source [
 
          :octicon:`repo;1em;sd-color-primary-text` docs
 
+.. code-block:: shell
+   :caption: Install nessus-file-reader
+   :name: Install nessus-file-reader
+
+   pip install nessus-file-reader
 
 .. .. list-table:: nessus-file-reader details
 ..     :widths: 25 75

@@ -63,6 +63,12 @@ Source [#]_ tool.
 
          :octicon:`repo;1em;sd-color-primary-text` docs
 
+.. code-block:: shell
+   :caption: Install converter-csv
+   :name: Install converter-csv
+
+   pip install converter-csv
+
 .. .. list-table:: converter-csv details
 ..     :widths: 25 75
 ..     :stub-columns: 1

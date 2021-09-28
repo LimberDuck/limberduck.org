@@ -70,6 +70,11 @@ reported vulnerabilities [2]_ and/or noncompliance. It's free and Open Source [3
 
          :octicon:`repo;1em;sd-color-primary-text` docs
 
+.. code-block:: shell
+   :caption: Install nessus-file-analyzer
+   :name: Install nessus-file-analyzer
+
+   pip install nessus-file-analyzer
 
 .. .. list-table:: nessus-file-analyzer details
 ..     :widths: 25 75
