@@ -5,3 +5,4 @@ sphinx-design>=0.0.12
 sphinx-copybutton>=0.4.0
 myst-nb>=0.13.1
 pandas>=1.3.4
+matplotlib>=3.5.0
