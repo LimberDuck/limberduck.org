@@ -6,7 +6,7 @@ nessus file reader
 
 |stars_from_users| |supported_platform| |license|
 
-.. image:: ../_static/img/LimberDuck-nessus-file-reader-logo.png
+.. image:: ../../_static/img/LimberDuck-nessus-file-reader-logo.png
    :alt: LimberDuck nessus-file-reader logo
    :width: 120px
    :align: left

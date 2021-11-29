@@ -5,7 +5,7 @@ nessus file analyzer
 
 |stars_from_users| |supported_platform| |license|
 
-.. image:: ../_static/img/LimberDuck-nessus-file-analyzer-logo.png
+.. image:: ../../_static/img/LimberDuck-nessus-file-analyzer-logo.png
    :alt: LimberDuck nessus-file-analyzer logo
    :width: 120px
    :align: left

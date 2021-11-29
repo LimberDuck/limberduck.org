@@ -5,7 +5,7 @@ converter csv
 
 |stars_from_users| |supported_platform| |license|
 
-.. image:: ../_static/img/LimberDuck-converter-csv-logo.png
+.. image:: ../../_static/img/LimberDuck-converter-csv-logo.png
    :alt: LimberDuck converter-csv logo
    :width: 120px
    :align: left

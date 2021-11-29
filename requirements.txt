@@ -3,3 +3,4 @@ Sphinx>=4.1.2
 sphinx-fontawesome>=0.0.6
 sphinx-design>=0.0.12
 sphinx-copybutton>=0.4.0
+myst-nb>=0.13.1

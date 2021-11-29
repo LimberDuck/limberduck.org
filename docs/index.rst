@@ -37,14 +37,14 @@ focus on data analysis.
          :alt: LimberDuck nessus-file-analyzer logo
          :width: 80px
          :align: left
-         :target: nessus-file-analyzer
+         :target: tools/nessus-file-analyzer
 
       This is a |GUI| tool that allows you to analyze nessus files containing the 
       results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
       used for |VA| [2]_ process.
 
       +++
-      .. button-ref:: nessus-file-analyzer/index
+      .. button-ref:: tools/nessus-file-analyzer/index
          :color: primary
          :ref-type: doc
          :outline:
@@ -61,14 +61,14 @@ focus on data analysis.
          :alt: LimberDuck nessus-file-reader logo
          :width: 80px
          :align: left
-         :target: nessus-file-reader
+         :target: tools/nessus-file-reader
 
       This is a python module that allows you to quickly parse nessus files 
       containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
       used for |VA| [2]_ process.
 
       +++
-      .. button-ref:: nessus-file-reader/index
+      .. button-ref:: tools/nessus-file-reader/index
          :color: primary
          :ref-type: doc
          :outline:
@@ -85,13 +85,13 @@ focus on data analysis.
          :alt: LimberDuck converter-csv logo
          :width: 80px
          :align: left
-         :target: converter-csv
+         :target: tools/converter-csv
       
       This is a |GUI| tool that allows you to convert multiple large |csv| files to |xlsx| files 
       keeping your operational memory usage at a low level.
       
       +++
-      .. button-ref:: converter-csv/index
+      .. button-ref:: tools/converter-csv/index
          :color: primary
          :ref-type: doc
          :outline:
@@ -184,14 +184,18 @@ nessus file analyzer:
 .. toctree::
 
 .. toctree::
-   :caption: Projects
    :maxdepth: 1
    :glob:
    :hidden:
 
-   nessus-file-analyzer/index
-   nessus-file-reader/index
-   converter-csv/index
+   tools/index
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   :hidden:
+
+   notebooks/index
 
 .. toctree::
    :caption: Other

@@ -34,8 +34,11 @@ release = '0.0.1'
 extensions = [
     'sphinx_fontawesome',
     'sphinx_design',
-    'sphinx_copybutton'
+    'sphinx_copybutton',
+    'myst_nb'
 ]
+
+execution_timeout = None
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
