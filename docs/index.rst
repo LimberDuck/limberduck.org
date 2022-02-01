@@ -198,6 +198,13 @@ nessus file analyzer:
    notebooks/index
 
 .. toctree::
+   :maxdepth: 1
+   :glob:
+   :hidden:
+
+   cheat-sheets/index
+
+.. toctree::
    :caption: Other
    :maxdepth: 1
    :glob:
