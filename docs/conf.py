@@ -65,6 +65,8 @@ html_title = "LimberDuck"
 
 html_show_sphinx = False
 
+html_show_sphinx = True
+
 html_theme_options = {
     "light_css_variables": {
         "color-brand-primary": "#FF6200",
