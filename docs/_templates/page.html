@@ -123,6 +123,16 @@
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
+
+            {%- if show_source and has_source and sourcename %}
+            <a class="muted-link" href="{{ pathto('_sources/' + sourcename, true)|e }}"
+               rel="nofollow">
+              {{ _('Source') }}
+            </br>
+            </a>
+            {%- endif %}
+
+
             {%- if show_copyright %}
             <div class="copyright">
               {%- if hasdoc('copyright') %}
@@ -151,6 +161,18 @@
               {%- endtrans -%}
             </div>
             {%- endif %}
+
+            <table style="width:150px; line-height:1em;" >
+                <tr>
+                <td>
+                    <a class="fa fa-github fa-2x fa-icon" aria-hidden="true" target="_blank" href="https://github.com/limberduck" rel="LimberDuck"></a>
+                </td> 
+                <td>
+                    <a class="fa fa-envelope fa-2x fa-icon" aria-hidden="true" href="mailto:damian.krawczyk@limberduck.org?subject=Question%20about%20LimberDuck&body=Hi%20Damian%2C%0AI%27m%20writing%20to%20you%20regarding%2E%2E%2E" rel="me"></a>
+                </td>
+                </tr>
+            </table>
+
           </div>
           <div class="right-details">
             <div class="icons">
