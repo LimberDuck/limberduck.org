@@ -4,6 +4,7 @@
    contain the root `toctree` directive.
 
 :hide-toc:
+:sd_hide_title:
 
 about
 =====
