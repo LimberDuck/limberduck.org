@@ -64,7 +64,7 @@ focus on data analysis.
          :align: left
          :target: tools/nessus-file-reader
 
-      This is a python module that allows you to quickly parse nessus files 
+      This is a |CLI| tool and python module that allows you to quickly parse nessus files 
       containing the results of scans performed by using *Nessus* or *Tenable.sc* by © Tenable, Inc.
       used for |VA| [2]_ process.
 

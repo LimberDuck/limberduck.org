@@ -101,6 +101,7 @@ html_css_files = [
 
 rst_prolog =  sphinx_fontawesome.prolog + """
 .. |GUI| replace:: :abbr:`GUI (Graphical User Interface)`
+.. |CLI| replace:: :abbr:`CLI (command-line interfaces)`
 .. |csv| replace:: :abbr:`csv (comma-separated value)`
 .. |xlsx| replace:: :abbr:`xlsx (Microsoft Excel Open XML Spreadsheet)`
 .. |VA| replace:: :abbr:`VA (Vulnerability Assessment)`
