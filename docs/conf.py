@@ -73,6 +73,20 @@ html_theme_options = {
         "color-brand-content": "#FF6200",
     },
     "navigation_with_keys": True,
+    "footer_icons": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/limberduck",
+            "html": "",
+            "class": "fa fa-github fa-2x",
+        },
+        {
+            "name": "Mail",
+            "url": "mailto:damian.krawczyk@limberduck.org?subject=Question%20about%20LimberDuck",
+            "html": "",
+            "class": "fa fa-envelope fa-2x",
+        },
+    ],
 }
 
 html_logo = "_static/img/LimberDuck-logo.png"
