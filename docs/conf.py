@@ -38,7 +38,7 @@ extensions = [
     'myst_nb'
 ]
 
-execution_timeout = None
+execution_timeout = -1
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
