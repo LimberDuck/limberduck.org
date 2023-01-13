@@ -19,7 +19,7 @@ import sphinx_fontawesome
 # -- Project information -----------------------------------------------------
 
 project = 'LimberDuck'
-copyright = '2018-2022, Damian Krawczyk'
+copyright = '2018-2023, Damian Krawczyk'
 author = 'Damian Krawczyk'
 
 # The full version, including alpha/beta/rc tags
@@ -66,6 +66,7 @@ html_title = "LimberDuck"
 html_show_sphinx = False
 
 html_show_sphinx = True
+html_show_source = False
 
 html_theme_options = {
     "light_css_variables": {
@@ -87,6 +88,7 @@ html_theme_options = {
             "class": "fa fa-envelope fa-2x",
         },
     ],
+    "top_of_page_button": False,
 }
 
 html_logo = "_static/img/LimberDuck-logo.png"
