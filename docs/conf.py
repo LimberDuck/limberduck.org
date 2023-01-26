@@ -66,7 +66,6 @@ html_title = "LimberDuck"
 html_show_sphinx = False
 
 html_show_sphinx = True
-html_show_source = False
 
 html_theme_options = {
     "light_css_variables": {

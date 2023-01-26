@@ -123,16 +123,6 @@
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
-
-            {%- if show_source and has_source and sourcename %}
-            <a class="muted-link" href="{{ pathto('_sources/' + sourcename, true)|e }}"
-               rel="nofollow">
-              {{ _('Source') }}
-            </br>
-            </a>
-            {%- endif %}
-
-
             {%- if show_copyright %}
             <div class="copyright">
               {%- if hasdoc('copyright') %}
